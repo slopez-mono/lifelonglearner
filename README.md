@@ -1,5 +1,6 @@
 # lifelonglearner
 This is a repository to continue learning about github
+
 En Mono creemos que el aprendizaje no tiene fecha de vencimiento. Por eso el equipo comercial decidió aprender a usar GitHub — no porque seamos developers, sino porque las mejores herramientas no deberían tener dueño.
 Este repositorio es la prueba.
 
